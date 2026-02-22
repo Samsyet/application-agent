@@ -41,8 +41,8 @@ h11==0.16.0
     # via
     #   httpcore
     #   uvicorn
-hive-hook==0.1.0
-    # via hive-mock-pipeline
+hive-hook==0.1.2
+    # via application-agent
 httpcore==1.0.9
     # via httpx
 httpx==0.28.1
